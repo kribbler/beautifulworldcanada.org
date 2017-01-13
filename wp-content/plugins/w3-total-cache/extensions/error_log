@@ -1,0 +1,4 @@
+[09-Apr-2015 21:37:41 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-content/plugins/w3-total-cache/extensions/Genesis.php on line 15
+[09-Apr-2015 21:37:41 Europe/Moscow] PHP Fatal error:  Call to undefined function w3_instance() in /home/bwcf123/public_html/wp-content/plugins/w3-total-cache/extensions/WordPressSEO.php on line 9
+[09-Apr-2015 21:37:44 Europe/Moscow] PHP Fatal error:  Call to undefined function w3_instance() in /home/bwcf123/public_html/wp-content/plugins/w3-total-cache/extensions/FeedBurner.php on line 10
+[09-Apr-2015 21:37:44 Europe/Moscow] PHP Fatal error:  Call to undefined function w3_is_extension_active() in /home/bwcf123/public_html/wp-content/plugins/w3-total-cache/extensions/CloudFlareAdmin.php on line 20

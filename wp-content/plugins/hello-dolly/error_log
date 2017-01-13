@@ -1,0 +1,1 @@
+[09-Apr-2015 21:37:41 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-content/plugins/hello-dolly/hello.php on line 60

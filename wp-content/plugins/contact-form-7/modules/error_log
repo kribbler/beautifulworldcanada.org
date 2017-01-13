@@ -1,0 +1,4 @@
+[09-Apr-2015 21:37:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-content/plugins/contact-form-7/modules/count.php on line 8
+[09-Apr-2015 21:37:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-content/plugins/contact-form-7/modules/listo.php on line 7
+[09-Apr-2015 21:37:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-content/plugins/contact-form-7/modules/date.php on line 9
+[09-Apr-2015 21:37:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-content/plugins/contact-form-7/modules/number.php on line 10

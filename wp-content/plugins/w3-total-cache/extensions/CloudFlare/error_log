@@ -1,0 +1,1 @@
+[09-Apr-2015 21:37:44 Europe/Moscow] PHP Fatal error:  Call to undefined function w3tc_postbox_header() in /home/bwcf123/public_html/wp-content/plugins/w3-total-cache/extensions/CloudFlare/general-settings-box.php on line 1

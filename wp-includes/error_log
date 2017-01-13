@@ -1,0 +1,241 @@
+[22-Mar-2015 12:08:24 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/theme.php on line 678
+[22-Mar-2015 12:08:25 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[25-Mar-2015 15:18:14 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[27-Mar-2015 23:16:08 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/category-template.php on line 891
+[28-Mar-2015 02:38:00 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[01-Apr-2015 23:07:11 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[02-Apr-2015 06:29:55 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom-comments.php on line 8
+[02-Apr-2015 17:07:54 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[02-Apr-2015 20:46:56 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[02-Apr-2015 20:46:56 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[02-Apr-2015 20:46:56 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[02-Apr-2015 22:04:40 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom.php on line 8
+[03-Apr-2015 13:23:52 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/nav-menu-template.php on line 16
+[03-Apr-2015 13:38:49 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Apr-2015 23:25:55 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/bwcf123/public_html/wp-includes/media.php on line 781
+[04-Apr-2015 22:38:25 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[04-Apr-2015 22:38:25 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[04-Apr-2015 22:38:25 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[05-Apr-2015 12:10:38 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[05-Apr-2015 12:40:38 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2-comments.php on line 8
+[05-Apr-2015 14:41:18 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rdf.php on line 8
+[06-Apr-2015 01:13:44 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/taxonomy.php on line 130
+[06-Apr-2015 06:37:17 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/admin-bar.php on line 48
+[06-Apr-2015 11:47:24 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[07-Apr-2015 00:27:29 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-styles.php on line 19
+[07-Apr-2015 03:27:58 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/bwcf123/public_html/wp-includes/vars.php on line 23
+[07-Apr-2015 14:55:15 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/ms-default-filters.php on line 17
+[09-Apr-2015 11:34:12 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[10-Apr-2015 04:39:24 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[10-Apr-2015 04:39:24 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[10-Apr-2015 09:32:59 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[10-Apr-2015 09:32:59 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[10-Apr-2015 09:32:59 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[11-Apr-2015 20:35:43 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/post-template.php on line 1241
+[11-Apr-2015 21:35:02 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[11-Apr-2015 21:35:03 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[12-Apr-2015 05:25:48 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/author-template.php on line 454
+[12-Apr-2015 07:26:51 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/shortcodes.php on line 403
+[17-Apr-2015 00:48:20 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-constants.php on line 153
+[18-Apr-2015 02:30:50 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/bwcf123/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[18-Apr-2015 09:22:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/default-filters.php on line 17
+[18-Apr-2015 13:30:53 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/bwcf123/public_html/wp-includes/update.php on line 667
+[19-Apr-2015 04:56:34 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/general-template.php on line 1760
+[19-Apr-2015 09:12:23 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/class-wp-embed.php on line 26
+[19-Apr-2015 11:58:58 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/class-snoopy.php on line 6
+[19-Apr-2015 15:14:46 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2.php on line 8
+[20-Apr-2015 03:58:45 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/comment-template.php on line 1648
+[20-Apr-2015 12:18:46 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/kses.php on line 1455
+[20-Apr-2015 16:05:59 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/theme.php on line 678
+[21-Apr-2015 03:16:51 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/bwcf123/public_html/wp-includes/template-loader.php on line 28
+[21-Apr-2015 06:19:24 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[21-Apr-2015 09:29:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/post-formats.php on line 164
+[22-Apr-2015 11:00:51 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/canonical.php on line 556
+[23-Apr-2015 15:29:04 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[25-Apr-2015 00:59:19 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[25-Apr-2015 01:29:43 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[25-Apr-2015 04:23:06 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[25-Apr-2015 09:16:47 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[26-Apr-2015 13:52:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-functions.php on line 2031
+[29-Apr-2015 04:10:58 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[03-May-2015 08:05:00 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration.php on line 7
+[03-May-2015 10:51:19 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[05-May-2015 15:37:47 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[16-May-2015 15:26:29 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[22-May-2015 22:36:44 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[03-Jun-2015 08:22:45 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom-comments.php on line 8
+[04-Jun-2015 02:20:13 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom.php on line 8
+[05-Jun-2015 08:59:57 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/nav-menu-template.php on line 16
+[05-Jun-2015 20:29:21 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[06-Jun-2015 12:35:19 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[07-Jun-2015 05:48:55 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[07-Jun-2015 10:32:04 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/bwcf123/public_html/wp-includes/media.php on line 781
+[08-Jun-2015 08:13:07 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[08-Jun-2015 16:40:13 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2-comments.php on line 8
+[09-Jun-2015 21:57:43 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[10-Jun-2015 11:41:04 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[10-Jun-2015 11:41:04 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[10-Jun-2015 11:41:04 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[10-Jun-2015 22:30:52 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[11-Jun-2015 00:02:15 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[13-Jun-2015 05:30:05 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/ms-default-filters.php on line 17
+[13-Jun-2015 08:13:22 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/admin-bar.php on line 48
+[13-Jun-2015 10:44:58 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/category-template.php on line 891
+[13-Jun-2015 23:42:14 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[14-Jun-2015 18:10:15 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jun-2015 18:10:15 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jun-2015 18:10:15 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jun-2015 21:19:27 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[14-Jun-2015 21:19:27 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[14-Jun-2015 21:19:27 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[15-Jun-2015 04:57:55 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[16-Jun-2015 16:33:24 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/shortcodes.php on line 403
+[16-Jun-2015 21:08:01 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/taxonomy.php on line 130
+[17-Jun-2015 11:10:06 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[17-Jun-2015 11:10:06 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[18-Jun-2015 20:10:34 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/author-template.php on line 454
+[19-Jun-2015 02:03:50 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[19-Jun-2015 02:03:50 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[19-Jun-2015 02:03:52 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[19-Jun-2015 02:04:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/post.php on line 167
+[19-Jun-2015 02:04:09 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/bwcf123/public_html/wp-includes/vars.php on line 23
+[19-Jun-2015 02:04:14 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/kses.php on line 1455
+[19-Jun-2015 02:04:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/theme.php on line 678
+[19-Jun-2015 02:04:58 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/bwcf123/public_html/wp-includes/media.php on line 781
+[19-Jun-2015 02:05:26 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/bwcf123/public_html/wp-includes/update.php on line 667
+[19-Jun-2015 02:06:43 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rdf.php on line 8
+[19-Jun-2015 02:06:54 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[19-Jun-2015 02:07:10 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/taxonomy.php on line 130
+[19-Jun-2015 02:07:21 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/canonical.php on line 556
+[19-Jun-2015 02:07:27 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom.php on line 8
+[19-Jun-2015 02:07:38 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/admin-bar.php on line 48
+[19-Jun-2015 02:07:43 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 02:07:43 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 02:07:43 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 02:07:49 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2.php on line 8
+[19-Jun-2015 02:08:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/shortcodes.php on line 403
+[19-Jun-2015 02:08:41 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[19-Jun-2015 02:08:41 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[19-Jun-2015 07:31:43 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/post-template.php on line 1241
+[19-Jun-2015 08:21:20 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/class-snoopy.php on line 6
+[19-Jun-2015 08:22:26 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-functions.php on line 2031
+[19-Jun-2015 08:53:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/post-formats.php on line 164
+[19-Jun-2015 12:40:23 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration.php on line 7
+[19-Jun-2015 13:56:10 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 13:56:10 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 13:56:10 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:12:02 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[19-Jun-2015 18:59:14 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/post-template.php on line 1241
+[19-Jun-2015 21:36:05 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/bwcf123/public_html/wp-includes/vars.php on line 23
+[20-Jun-2015 00:20:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/class-wp-embed.php on line 26
+[20-Jun-2015 00:21:07 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-styles.php on line 19
+[20-Jun-2015 00:22:12 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[20-Jun-2015 00:22:12 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[20-Jun-2015 00:22:12 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[20-Jun-2015 00:23:26 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/default-filters.php on line 17
+[20-Jun-2015 03:45:42 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[20-Jun-2015 05:01:29 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/bwcf123/public_html/wp-includes/template-loader.php on line 28
+[20-Jun-2015 05:21:02 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/general-template.php on line 1760
+[20-Jun-2015 13:31:12 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/author-template.php on line 454
+[20-Jun-2015 13:32:41 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/comment-template.php on line 1648
+[20-Jun-2015 13:51:54 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[20-Jun-2015 15:07:41 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/general-template.php on line 1760
+[20-Jun-2015 17:39:13 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/category-template.php on line 891
+[20-Jun-2015 18:55:00 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/nav-menu-template.php on line 16
+[21-Jun-2015 12:35:51 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom-comments.php on line 8
+[21-Jun-2015 16:23:07 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2-comments.php on line 8
+[21-Jun-2015 22:42:01 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/ms-default-filters.php on line 17
+[21-Jun-2015 23:36:48 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/bwcf123/public_html/wp-includes/template-loader.php on line 28
+[22-Jun-2015 01:13:35 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[22-Jun-2015 03:00:19 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[22-Jun-2015 03:45:09 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-constants.php on line 153
+[22-Jun-2015 06:39:54 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/theme.php on line 678
+[22-Jun-2015 10:04:05 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[22-Jun-2015 12:35:38 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/bwcf123/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[22-Jun-2015 13:51:26 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[22-Jun-2015 22:41:52 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[24-Jun-2015 07:39:48 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/nav-menu-template.php on line 16
+[24-Jun-2015 07:39:52 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/author-template.php on line 454
+[24-Jun-2015 07:40:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/general-template.php on line 1760
+[24-Jun-2015 07:41:49 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[24-Jun-2015 07:41:52 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/default-filters.php on line 17
+[24-Jun-2015 07:42:44 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[24-Jun-2015 07:42:44 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[24-Jun-2015 07:42:44 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[24-Jun-2015 07:42:56 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/shortcodes.php on line 403
+[24-Jun-2015 07:43:17 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/canonical.php on line 556
+[24-Jun-2015 07:43:20 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[24-Jun-2015 07:43:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/theme.php on line 678
+[24-Jun-2015 07:43:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/kses.php on line 1455
+[24-Jun-2015 07:43:31 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/bwcf123/public_html/wp-includes/vars.php on line 23
+[24-Jun-2015 07:43:35 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/taxonomy.php on line 130
+[24-Jun-2015 07:43:48 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[24-Jun-2015 07:43:48 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[24-Jun-2015 07:43:48 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[25-Jun-2015 21:58:59 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[25-Jun-2015 21:58:59 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[28-Jun-2015 20:00:26 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-constants.php on line 153
+[06-Jul-2015 08:37:03 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/class-snoopy.php on line 6
+[06-Jul-2015 13:01:42 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[07-Jul-2015 01:45:16 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/class-wp-embed.php on line 26
+[10-Jul-2015 00:33:09 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[04-Aug-2015 06:02:18 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-styles.php on line 19
+[04-Aug-2015 06:02:19 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/bwcf123/public_html/wp-includes/update.php on line 666
+[04-Aug-2015 06:02:19 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/bwcf123/public_html/wp-includes/template-loader.php on line 28
+[04-Aug-2015 06:02:19 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom-comments.php on line 8
+[04-Aug-2015 06:02:19 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rdf.php on line 8
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration-functions.php on line 7
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/class-wp-embed.php on line 26
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[04-Aug-2015 06:02:23 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[04-Aug-2015 06:02:24 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/bwcf123/public_html/wp-includes/vars.php on line 23
+[04-Aug-2015 06:02:24 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2-comments.php on line 8
+[04-Aug-2015 06:02:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/bwcf123/public_html/wp-includes/media.php on line 815
+[04-Aug-2015 06:02:26 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/comment-template.php on line 1662
+[04-Aug-2015 06:02:27 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/nav-menu-template.php on line 16
+[04-Aug-2015 06:02:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-filters.php on line 17
+[04-Aug-2015 06:02:29 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-scripts.php on line 19
+[04-Aug-2015 06:02:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/bwcf123/public_html/wp-includes/default-filters.php on line 17
+[04-Aug-2015 06:02:30 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom.php on line 8
+[04-Aug-2015 06:02:31 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2.php on line 8
+[04-Aug-2015 06:02:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-constants.php on line 153
+[04-Aug-2015 06:02:32 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/post-template.php on line 1292
+[04-Aug-2015 06:02:32 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[04-Aug-2015 06:02:32 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/bwcf123/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[04-Aug-2015 06:02:33 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/registration.php on line 7
+[04-Aug-2015 06:02:33 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[04-Aug-2015 06:02:33 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[04-Aug-2015 06:02:33 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/functions.php on line 8
+[04-Aug-2015 06:02:34 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/category-template.php on line 912
+[04-Aug-2015 06:02:36 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/class-snoopy.php on line 6
+[04-Aug-2015 06:02:36 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/bwcf123/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[04-Aug-2015 06:02:37 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/ms-settings.php on line 14
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[04-Aug-2015 06:02:38 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-simplepie.php on line 5
+[04-Aug-2015 06:02:40 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss.php on line 19
+[04-Aug-2015 06:08:01 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[04-Aug-2015 06:08:01 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/class-feed.php on line 4
+[04-Aug-2015 06:23:25 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[11-Aug-2015 04:00:57 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/bwcf123/public_html/wp-includes/default-widgets.php on line 14
+[16-Aug-2015 12:15:18 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/bwcf123/public_html/wp-includes/media.php on line 815
+[22-Aug-2015 09:16:14 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/bwcf123/public_html/wp-includes/ms-default-filters.php on line 17
+[25-Aug-2015 05:37:11 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/bwcf123/public_html/wp-includes/category-template.php on line 912
+[26-Aug-2015 06:00:46 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rdf.php on line 8
+[26-Aug-2015 16:35:35 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[27-Aug-2015 21:34:39 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/bwcf123/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Aug-2015 01:27:26 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/bwcf123/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[01-Sep-2015 14:02:31 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[01-Sep-2015 14:02:31 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[01-Sep-2015 14:02:31 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bwcf123/public_html/wp-includes/script-loader.php on line 25
+[05-Sep-2015 20:10:55 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/bwcf123/public_html/wp-includes/class.wp-styles.php on line 19
+[06-Sep-2015 03:23:01 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss2.php on line 8
+[10-Sep-2015 19:39:43 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bwcf123/public_html/wp-includes/rss-functions.php on line 8
+[11-Sep-2015 14:10:36 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/bwcf123/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[14-Sep-2015 07:14:50 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-rss.php on line 8
+[15-Sep-2015 08:52:13 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/bwcf123/public_html/wp-includes/feed-atom-comments.php on line 8
